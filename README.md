@@ -8,6 +8,7 @@ git clone https://github.com/patnikvoe/pyGDWR.git
 ```
 ## Configuration
 For automatic repetition of the reminder, I used crontab. For generating a crontab string, refer to https://crontab.guru/
+
 **Example:** every 30 minutes from 8-21
 ```
 */30 8-21 * * * python3 /path/to/your/clone/pyGDWR.py
