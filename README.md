@@ -19,6 +19,9 @@ For automatic repetition of the reminder, I used crontab. For generating a cront
 ```
 If you are still running Python2 use `python` instead of `python3`
 
+## Tested with:
+`Pop!_OS 18.04 LTS` & Python 3.6.6
+
 ## Credits
 The icon used for the notifications was found here:
 http://www.iconarchive.com/show/food-drink-icons-by-graphicloads/drink-icon.html
