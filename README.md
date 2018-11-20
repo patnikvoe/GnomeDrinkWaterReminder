@@ -15,11 +15,11 @@ crontab -e
 ```
 **Example:** every 30 minutes from 8-21
 ```
-*/30 8-21 * * * python3 /path/to/your/clone/pyGDWR.py
+*/30 8-21 * * * python3 /path/to/your/clone/pyDWR/pyDWR.py
 ```
 **Example:** every 1 hour from 10-20
 ```
-0 10-21 * * * python3 /path/to/your/clone/pyGDWR.py
+0 10-21 * * * python3 /path/to/your/clone/pyDWR/pyDWR.py
 ```
 If you are still running Python2 use `python` instead of `python3`
 
